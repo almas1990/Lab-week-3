@@ -18,14 +18,22 @@
 -  [:books: COMP1238 Course](https://learn.georgebrown.ca/d2l/home/291663)
 -  
   # Experiments
-- Here are some emojis: 
+ 
+# :bar_chart: My Markdown Project
+  In this project i use different emojis and number row character. 
+  - :desktop_computer:
+  - :mailbox_with_mail:
+  - :calendar:
+  - :bug:
+  - `Code block`
+  - # 11-Adding Tables
+   | Species | Petal_length | Sepal_length |
+   | :-------: | :--------: | :--------: |
+   | Virginca| 10.1 | 12.3 |
+   | Setosa| 14.1 | 17.3 |
+   | versicolor| 15.1 | 16.3 |
+   | ursela| 13.1 | 18.3 |
 
-- :wilted_flower:
-- :pakistan:
-- :canada:
-- :abacus:
-- :ice_cream:
-- 😄
 
 
 
