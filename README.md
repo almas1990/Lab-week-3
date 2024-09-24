@@ -14,7 +14,6 @@
 # Links
 - [:computer: GitHub Pages](https://pages.github.com/)
 - [:school: W3Schools](https://www.w3schools.com/)
-
 -  [:books: COMP1238 Course](https://learn.georgebrown.ca/d2l/home/291663)
 
 # Experiments
