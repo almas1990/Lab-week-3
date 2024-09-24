@@ -34,6 +34,17 @@
    | versicolor| 15.1 | 16.3 |
    | ursela| 13.1 | 18.3 |
 
+   ## Keyboard Shortcut Keys
+   Shortcuts I frequently use:
+   - Ctrl + V (paste)
+   - Ctrl + A (select all)
+   - Ctrl + X (cut)
+   Shortcuts I would like to start using:
+   - Ctrl + Y (redo)
+   - Ctrl + O (open)
+   - Ctrl + T (new tab)
+
+
 
 
 
