@@ -5,8 +5,8 @@
 - $ = Dollar sign
 - % = percentage
 - ^ = Caret
-- & = Ampersand
-- * = Asterisk
+- & = Ampersand  
+- \* = Asterisk
 - ( = Left Parenthesis
 - ) = Right Parenthesis
   
@@ -16,8 +16,8 @@
 - [:school: W3Schools](https://www.w3schools.com/)
 
 -  [:books: COMP1238 Course](https://learn.georgebrown.ca/d2l/home/291663)
--  
-  # Experiments
+
+# Experiments
  
 # :bar_chart: My Markdown Project
   In this project i use different emojis and number row character. 
@@ -25,8 +25,9 @@
   - :mailbox_with_mail:
   - :calendar:
   - :bug:
-  - `Code block`
-  - # 11-Adding Tables
+  - `Code block`  
+
+ # Adding Tables
    | Species | Petal_length | Sepal_length |
    | :-------: | :--------: | :--------: |
    | Virginca| 10.1 | 12.3 |
@@ -34,11 +35,12 @@
    | versicolor| 15.1 | 16.3 |
    | ursela| 13.1 | 18.3 |
 
-   ## Keyboard Shortcut Keys
+ ## Keyboard Shortcut Keys  
    Shortcuts I frequently use:
    - Ctrl + V (paste)
    - Ctrl + A (select all)
-   - Ctrl + X (cut)
+   - Ctrl + X (cut)  
+   
    Shortcuts I would like to start using:
    - Ctrl + Y (redo)
    - Ctrl + O (open)
