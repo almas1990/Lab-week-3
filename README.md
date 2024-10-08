@@ -45,6 +45,7 @@
    - Ctrl + O (open)
    - Ctrl + T (new tab)
 
+### link to cli.md: [CLI commands](docs/cli.md)
 
 
 
