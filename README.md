@@ -15,6 +15,7 @@
 - [:computer: GitHub Pages](https://pages.github.com/)
 - [:school: W3Schools](https://www.w3schools.com/)
 -  [:books: COMP1238 Course](https://learn.georgebrown.ca/d2l/home/291663)
+-  [CLI commands](docs/cli.md)
 
 # Experiments
  
@@ -45,7 +46,7 @@
    - Ctrl + O (open)
    - Ctrl + T (new tab)
 
-### link to cli.md: [CLI commands](docs/cli.md)
+link to cli.md: [CLI commands](docs/cli.md)
 
 
 

@@ -10,4 +10,5 @@ The ls command is used to list files and directories in the current directory (o
 
 Basic Usage:
 - ls: Lists the files and directories in the current directory.
-- ls /path/to/directory: Lists the contents of the specified directory.
+- ls /path/to/directory: Lists the contents of the specified directory.  
+[back](../README.md)
