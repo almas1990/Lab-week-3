@@ -22,12 +22,12 @@
   {
     "name": "Serena Williams", //string
     "sport": "Tennis", //string
-    "team":
-    {"name": null,
+    "team": {
+      "name": null,
       "city": null
     },
-    "position": "Player",//string
-    "age": 41          //integer
+    "position": "Player", //string
+    "age": 41 //integer
   },
   {
     "name": "Tom Brady",
