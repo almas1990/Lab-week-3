@@ -20,23 +20,23 @@
     "age": 36
   },
   {
-    "name": "Serena Williams",      //string
-    "sport": "Tennis",                   //string
+    "name": "Serena Williams", //string
+    "sport": "Tennis", //string
     "team":
-      "name": null,
-      "city": null
-    },
-    "position": "Player",              //string
-    "age": 41                          //integer
+     { "name": null,
+    "city": null
   },
-  {
-    "name": "Tom Brady",
-    "sport": "Football",
-    "team": {
-      "name": "Buccaneers",
-      "city": "Tampa Bay"
-    },
-    "position": "Quarterback",
-    "age": 46
-  }
+  "position": "Player", //string
+  "age": 41 //integer
+},
+{
+  "name": "Tom Brady",
+  "sport": "Football",
+  "team": {
+    "name": "Buccaneers",
+    "city": "Tampa Bay"
+  },
+  "position": "Quarterback",
+  "age": 46
+}
 ]
